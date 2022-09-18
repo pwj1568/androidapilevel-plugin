@@ -1,6 +1,41 @@
 {
   "apis": [
     {
+      "apiLevel": 33,
+      "name": "Tiramisu",
+      "link": "https://developer.android.google.cn/about/versions/12/12L/summary.html",
+      "platformVersions": ["13.0"],
+      "versionCode": "TIRAMISU"
+    },
+    {
+      "apiLevel": 32,
+      "name": "Sv2",
+      "link": "https://developer.android.google.cn/about/versions/12/12L/summary.html",
+      "platformVersions": ["12L"],
+      "versionCode": "S_V2"
+    },
+    {
+      "apiLevel": 31,
+      "name": "S",
+      "link": "https://developer.android.google.cn/about/versions/12/features.html",
+      "platformVersions": ["12.0"],
+      "versionCode": "S"
+    },
+    {
+      "apiLevel": 30,
+      "name": "R",
+      "link": "https://developer.android.google.cn/about/versions/11/features.html",
+      "platformVersions": ["11.0"],
+      "versionCode": "R"
+    },
+    {
+      "apiLevel": 29,
+      "name": "Q",
+      "link": "https://developer.android.google.cn/about/versions/10/features.html",
+      "platformVersions": ["10.0"],
+      "versionCode": "Q"
+    },
+    {
       "apiLevel": 28,
       "name": "Pie",
       "link": "https://developer.android.com/about/versions/pie/android-9.0.html",
