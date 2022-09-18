@@ -3,7 +3,7 @@
     {
       "apiLevel": 33,
       "name": "Tiramisu",
-      "link": "https://developer.android.google.cn/about/versions/12/12L/summary.html",
+      "link": "https://developer.android.google.cn/about/versions/13/features.html",
       "platformVersions": ["13.0"],
       "versionCode": "TIRAMISU"
     },
